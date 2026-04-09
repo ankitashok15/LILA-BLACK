@@ -1,0 +1,109 @@
+{
+  "chunks": [
+    {
+      "map": "AmbroseValley",
+      "dateKey": "Feb10",
+      "file": "AmbroseValley_Feb10.json",
+      "partial": false,
+      "matchCount": 200
+    },
+    {
+      "map": "AmbroseValley",
+      "dateKey": "Feb11",
+      "file": "AmbroseValley_Feb11.json",
+      "partial": false,
+      "matchCount": 138
+    },
+    {
+      "map": "AmbroseValley",
+      "dateKey": "Feb12",
+      "file": "AmbroseValley_Feb12.json",
+      "partial": false,
+      "matchCount": 127
+    },
+    {
+      "map": "AmbroseValley",
+      "dateKey": "Feb13",
+      "file": "AmbroseValley_Feb13.json",
+      "partial": false,
+      "matchCount": 78
+    },
+    {
+      "map": "AmbroseValley",
+      "dateKey": "Feb14",
+      "file": "AmbroseValley_Feb14.json",
+      "partial": true,
+      "matchCount": 24
+    },
+    {
+      "map": "GrandRift",
+      "dateKey": "Feb10",
+      "file": "GrandRift_Feb10.json",
+      "partial": false,
+      "matchCount": 24
+    },
+    {
+      "map": "GrandRift",
+      "dateKey": "Feb11",
+      "file": "GrandRift_Feb11.json",
+      "partial": false,
+      "matchCount": 13
+    },
+    {
+      "map": "GrandRift",
+      "dateKey": "Feb12",
+      "file": "GrandRift_Feb12.json",
+      "partial": false,
+      "matchCount": 9
+    },
+    {
+      "map": "GrandRift",
+      "dateKey": "Feb13",
+      "file": "GrandRift_Feb13.json",
+      "partial": false,
+      "matchCount": 5
+    },
+    {
+      "map": "GrandRift",
+      "dateKey": "Feb14",
+      "file": "GrandRift_Feb14.json",
+      "partial": true,
+      "matchCount": 8
+    },
+    {
+      "map": "Lockdown",
+      "dateKey": "Feb10",
+      "file": "Lockdown_Feb10.json",
+      "partial": false,
+      "matchCount": 61
+    },
+    {
+      "map": "Lockdown",
+      "dateKey": "Feb11",
+      "file": "Lockdown_Feb11.json",
+      "partial": false,
+      "matchCount": 50
+    },
+    {
+      "map": "Lockdown",
+      "dateKey": "Feb12",
+      "file": "Lockdown_Feb12.json",
+      "partial": false,
+      "matchCount": 26
+    },
+    {
+      "map": "Lockdown",
+      "dateKey": "Feb13",
+      "file": "Lockdown_Feb13.json",
+      "partial": false,
+      "matchCount": 29
+    },
+    {
+      "map": "Lockdown",
+      "dateKey": "Feb14",
+      "file": "Lockdown_Feb14.json",
+      "partial": true,
+      "matchCount": 5
+    }
+  ]
+}

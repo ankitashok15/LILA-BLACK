@@ -1,0 +1,10 @@
+node_modules
+dist
+.venv
+venv
+__pycache__
+*.pyc
+.DS_Store
+validate_coords_out.png
+.env
+.env.local
